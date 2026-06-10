@@ -5,7 +5,7 @@ Atualmente, estou focado em aprimorar minha lógica e domínio de PHP para const
 
 ### 🛠 Tech Stack atual
 - **Em estudo:** PHP.
-- 
+  
 ### 🚀 O que estou buscando
 - Desenvolver habilidades sólidas em **PHP puro** e **POO**.
 - Criar projetos práticos que resolvam problemas reais (como sistemas de agendamento e automação de dados).
