@@ -1,7 +1,7 @@
 # Olá, sou o Rafael Tavares! 👋
 
 Coordenador de sistemas na Prefeitura de Patos/PB e desenvolvedor em formação. 
-Atualmente, estou focado em aprimorar minha lógica e domínio de PHP para construir soluções que otimizem processos e melhorem a experiência de gestão de sistemas.
+Atualmente, estou focado em aprimorar minha lógica para construir soluções que otimizem processos e melhorem a experiência de gestão de sistemas.
 
 ### 🛠 Tech Stack atual
 - **Em estudo:** Node.JS | HTML | CSS | JS.
