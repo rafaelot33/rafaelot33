@@ -28,15 +28,6 @@ Sistema fullstack para gerenciamento de agendamentos, clientes e serviços de ba
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelot33&show_icons=true&theme=radical&count_private=true" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelot33&layout=compact&theme=radical" alt="langs"/>
-</p>
-
----
-
 ### 🌐 Conecte-se comigo
 
 <p align="left">
