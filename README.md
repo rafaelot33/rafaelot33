@@ -1,125 +1,58 @@
-<h1 align="center">Olá, eu sou o Rafael Tavares 👋</h1>
+# Olá, eu sou o Rafael Tavares 👋
 
-<h3 align="center">Desenvolvedor Backend em formação</h3>
+### Quality Assurance | Backend
 
-<p align="center">
-  <em>Construindo APIs, estudando backend e transformando ideias em soluções reais.</em>
-</p>
+Sou estudante e profissional de tecnologia, atualmente atuando com **QA** e desenvolvendo conhecimentos em **Backend com Java**.
 
----
-
-### 🧑‍💻 Sobre mim
-
-Sou desenvolvedor backend em formação, atualmente focado em construir projetos reais utilizando Node.js, Express, TypeScript e PostgreSQL.
-
-Tenho buscado evoluir através da prática, criando APIs, trabalhando com banco de dados relacional, organização de projetos, regras de negócio e deploy de aplicações.
-
-Atualmente também estou envolvido no desenvolvimento de soluções digitais para pequenos negócios, com foco em sistemas simples, funcionais e escaláveis.
+Também possuo experiência com desenvolvimento de APIs utilizando **Node.js, Express, TypeScript e PostgreSQL**.
 
 ---
 
-### 🛠️ Principais tecnologias
+## 💼 Experiência
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-</p>
+### 🧪 NUTES — Estagiário de QA / Backend
 
----
+* Testes e validação de funcionalidades
+* Estudo e entendimento do produto
+* Análise de requisitos e regras de negócio
+* Criação e execução de cenários de teste
+* Contato com BDD, Gherkin, JUnit e Java
 
-### 📚 Atualmente estudando
+### 🏛️ Prefeitura Municipal de Patos-PB — Técnico Educacional
 
-- Backend com Node.js e Express
-- TypeScript aplicado ao backend
-- Banco de dados com PostgreSQL
-- Construção de APIs REST
-- Organização de projetos backend
-- Git e GitHub
-- Deploy de aplicações
+* Organização e análise de dados educacionais
+* Desenvolvimento de planilhas, relatórios e ferramentas internas
+* Apoio a sistemas e processos digitais da rede municipal
+* Criação de soluções para otimização de rotinas
 
 ---
 
-### 🚀 Projeto em destaque
+## 🚀 Projeto em destaque
 
-## Sistema de Agendamento para Barbearia
+### Sistema de Agendamento para Barbearia
 
-Sistema de agendamento para barbearia, desenvolvido como projeto real para praticar backend com Node.js, Express e PostgreSQL.
+Sistema para gerenciamento de agendamentos, horários, serviços e barbeiros.
 
-O projeto permite que clientes realizem agendamentos, escolham barbeiro, serviços, data e horário. Também conta com painel administrativo para visualização dos agendamentos, controle de status e contato via WhatsApp.
+* Criação e gerenciamento de agendamentos
+* Validação de conflitos de horário
+* Consulta de horários disponíveis
+* Painel administrativo
+* Integração com WhatsApp
 
-### Funcionalidades atuais
+**Tecnologias:** Node.js • Express • PostgreSQL • JavaScript/TypeScript
 
-- Listagem de barbeiros
-- Listagem de serviços
-- Criação de agendamentos
-- Cálculo automático do horário final
-- Validação de conflitos de horário
-- Bloqueio de horários indisponíveis
-- Listagem de horários disponíveis
-- Controle de status do agendamento
-- Painel administrativo simples
-- Integração com WhatsApp
-- Deploy online
-
-### Tecnologias utilizadas
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=postgresql&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</p>
-
-### Status do projeto
-
-MVP funcional publicado para testes e melhorias.
-
-<p align="left">
-  <a href="https://github.com/rafaelot33/agendamento-barbearia" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20repositório-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://agendamento-barbearia-alpha.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20projeto%20online-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
+🔗 [Ver projeto no GitHub](https://github.com/rafaelot33/agendamento-barbearia)
 
 ---
 
-### 🎯 Foco atual
+## 📚 Atualmente
 
-Meu foco atual é consolidar minha base como desenvolvedor backend, estudando e praticando:
-
-- APIs REST
-- Node.js
-- Express
-- TypeScript
-- PostgreSQL
-- SQL
-- Estruturação de projetos
-- Validações e regras de negócio
-- Deploy e versionamento
+Aprofundando conhecimentos em **QA, testes de software, Java e Backend**.
 
 ---
 
-### 🌐 Conecte-se comigo
+## 🌐 Contato
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rafael-tavares33/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+🔗 [LinkedIn](https://www.linkedin.com/in/rafael-tavares33/)
 
-  <a href="https://github.com/rafaelot33" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  Obrigado pela visita! 🚀
-</p>
+Obrigado pela visita! 🚀
