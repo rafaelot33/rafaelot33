@@ -42,7 +42,7 @@ Sistema para gerenciamento de agendamentos, horários, serviços e barbeiros.
 
 **Tecnologias:** Node.js • Express • PostgreSQL • JavaScript/TypeScript
 
-🔗 [Ver projeto no GitHub](https://github.com/rafaelot33/agendamento-barbearia)
+🔗 [Ver projeto no GitHub](https://github.com/rafaelot33/ar-barbearia-agendamento)
 
 ---
 
