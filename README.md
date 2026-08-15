@@ -18,12 +18,13 @@ Também possuo experiência com desenvolvimento de APIs utilizando **Node.js, Ex
 * Criação e execução de cenários de teste
 * Contato com BDD, Gherkin, JUnit e Java
 
-### 🏛️ Prefeitura Municipal de Patos-PB — Técnico Educacional
+### 🏛️ Prefeitura Municipal de Patos-PB — Coordenador de Sistema
 
 * Organização e análise de dados educacionais
 * Desenvolvimento de planilhas, relatórios e ferramentas internas
 * Apoio a sistemas e processos digitais da rede municipal
 * Criação de soluções para otimização de rotinas
+* Coordenador do sistema SAEV de avaliações e acompanhamento educacionais
 
 ---
 
