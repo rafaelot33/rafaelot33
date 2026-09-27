@@ -1,59 +1,104 @@
-# Olá, eu sou o Rafael Tavares 👋
+<div align="center">
 
-### Quality Assurance | Backend
+# 👋 Olá, eu sou Rafael Tavares
 
-Sou estudante e profissional de tecnologia, atualmente atuando com **QA** e desenvolvendo conhecimentos em **Backend com Java**.
+### 🧪 QA Júnior | Software Testing
 
-Também possuo experiência com desenvolvimento de APIs utilizando **Node.js, Express, TypeScript e PostgreSQL**.
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Qualidade+de+Software;Testes+Manuais+%26+BDD;Evoluindo+em+Automa%C3%A7%C3%A3o+de+Testes&center=true&width=500&height=45">
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou estudante de **Ciência da Computação na UEPB** e atualmente atuo como **estagiário no NUTES**, desenvolvendo experiência prática na área de **Qualidade de Software (QA)**.
+
+Meu foco está em compreender o produto, identificar possíveis problemas e contribuir para entregas de software com mais qualidade.
+
+Atualmente trabalho e estudo principalmente:
+
+- 🧪 Testes manuais
+- 🥒 BDD e Gherkin
+- 📋 Criação e execução de cenários de teste
+- 🔎 Validação de funcionalidades
+- 🐞 Identificação e acompanhamento de bugs
+- 📌 Jira
+- 📡 Postman
+- 🌱 Fundamentos de automação de testes
+
+Também possuo conhecimentos em programação, que utilizo como base para evoluir na área de **automação de testes**.
 
 ---
 
 ## 💼 Experiência
 
-### 🧪 NUTES — Estagiário de QA / Backend
+### 🧪 NUTES — Estagiário de QA
 
-* Testes e validação de funcionalidades
-* Estudo e entendimento do produto
-* Análise de requisitos e regras de negócio
-* Criação e execução de cenários de teste
-* Contato com BDD, Gherkin, JUnit e Java
+Atuação em atividades relacionadas à qualidade de software, incluindo:
 
-### 🏛️ Prefeitura Municipal de Patos-PB — Coordenador de Sistema
-
-* Organização e análise de dados educacionais
-* Desenvolvimento de planilhas, relatórios e ferramentas internas
-* Apoio a sistemas e processos digitais da rede municipal
-* Criação de soluções para otimização de rotinas
-* Coordenador do sistema SAEV de avaliações e acompanhamento educacionais
+- Análise e entendimento de funcionalidades
+- Execução de testes manuais
+- Criação e interpretação de cenários utilizando **BDD/Gherkin**
+- Registro e acompanhamento de atividades no **Jira**
+- Validação de regras de negócio
+- Estudo contínuo de ferramentas e técnicas de testes
 
 ---
 
-## 🚀 Projeto em destaque
+## 🛠️ Tecnologias e ferramentas
 
-### Sistema de Agendamento para Barbearia
+### 🧪 Quality Assurance
 
-Sistema para gerenciamento de agendamentos, horários, serviços e barbeiros.
+![Manual Testing](https://img.shields.io/badge/Testes%20Manuais-212121?style=for-the-badge&logo=checkmarx&logoColor=white)
+![BDD](https://img.shields.io/badge/BDD-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Gherkin](https://img.shields.io/badge/Gherkin-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-* Criação e gerenciamento de agendamentos
-* Validação de conflitos de horário
-* Consulta de horários disponíveis
-* Painel administrativo
-* Integração com WhatsApp
+### 💻 Programação
 
-**Tecnologias:** Node.js • Express • PostgreSQL • JavaScript/TypeScript
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-🔗 [Ver projeto no GitHub](https://github.com/rafaelot33/ar-barbearia-agendamento)
+### 🔧 Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📚 Atualmente
+## 🎓 Formação
 
-Aprofundando conhecimentos em **QA, testes de software, Java e Backend**.
+📚 **Ciência da Computação — Universidade Estadual da Paraíba (UEPB)**
 
 ---
 
-## 🌐 Contato
+## 🚀 Atualmente
 
-🔗 [LinkedIn](https://www.linkedin.com/in/rafael-tavares33/)
+Meu principal objetivo é evoluir como profissional de **Qualidade de Software**, fortalecendo minha base em testes manuais e avançando gradualmente para **automação de testes**.
 
-Obrigado pela visita! 🚀
+No momento, estou aprofundando conhecimentos em:
+
+- Automação de testes
+- Cypress
+- Testes de API
+- Boas práticas de QA
+- Programação aplicada à automação
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rafael%20Tavares-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-tavares33/)
+
+[![Email](https://img.shields.io/badge/Email-dev.rafaelot%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.rafaelot@gmail.com)
+
+---
+
+<div align="center">
+
+### 🧪 Encontrar bugs antes do usuário é sempre melhor. 😄
+
+</div>
